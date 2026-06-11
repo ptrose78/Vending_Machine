@@ -1,0 +1,34 @@
+# --- LabVIEW Metadata and Environment Local Settings ---
+# These files contain local machine aliases and local window positions.
+# Committing these will cause constant conflicts with other developers.
+*.aliases
+*.lvlps
+*.lvproj.local
+.cache/
+
+# --- Temporary Cache & Compilation Artefacts ---
+*.lvbitx
+*.err
+*.fastbcp
+
+# --- Built Libraries & Distribution Binaries ---
+# Never track your build outputs; they populate dynamically.
+*.lvlibp
+*.llb
+*.exe
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# --- Measurement & Automation Explorer (MAX) Exports ---
+*.nce
+
+# --- Build Output Directories ---
+# Ignores standard build destination directories regardless of casing
+[Bb]uild/
+[Bb]uilds/
+
+# --- OS-Specific Junk ---
+.DS_Store
+Thumbs.db

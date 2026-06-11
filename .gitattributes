@@ -1,0 +1,8 @@
+# Define LabVIEW source files explicitly as binary to prevent line-ending corruption
+*.vi binary
+*.ctl binary
+
+# Treat project structures and XML-based libraries as standard text with explicit line endings
+*.lvproj text eol=crlf
+*.lvlib text eol=crlf
+*.lvclass text eol=crlf
