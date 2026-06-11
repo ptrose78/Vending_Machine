@@ -63,9 +63,11 @@
 			<Item Name="Product.ctl" Type="VI" URL="../controls/Product.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Check Currency Limit.vi" Type="VI" URL="../Check Currency Limit.vi"/>
 		<Item Name="Currency Enum.ctl" Type="VI" URL="../controls/Currency Enum.ctl"/>
 		<Item Name="Currency.ctl" Type="VI" URL="../controls/Currency.ctl"/>
 		<Item Name="Dispense Data.ctl" Type="VI" URL="../controls/Dispense Data.ctl"/>
+		<Item Name="Display Balance Status.vi" Type="VI" URL="../Display Balance Status.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
