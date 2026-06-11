@@ -10,7 +10,6 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="5980"/>
           <SignalUID value="3200"/>
         </Generic>
       </Probes>
