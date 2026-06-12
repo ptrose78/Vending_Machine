@@ -11,6 +11,40 @@
       <Probes>
         <Generic>
           <SignalUID value="3200"/>
+          <SignalUID value="6908"/>
+          <SignalUID value="3080"/>
+          <SignalUID value="2912"/>
+          <SignalUID value="4388"/>
+          <SignalUID value="4897"/>
+          <SignalUID value="4508"/>
+          <SignalUID value="4062"/>
+          <SignalUID value="3115"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Purchase And Dispensing.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="244"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Update Coin Reserve.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1017"/>
         </Generic>
       </Probes>
     </VI>
