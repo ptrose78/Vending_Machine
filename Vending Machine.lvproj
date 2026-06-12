@@ -64,6 +64,7 @@
 			<Item Name="UI Refs.ctl" Type="VI" URL="../controls/UI Refs.ctl"/>
 		</Item>
 		<Item Name="Check Currency Limit.vi" Type="VI" URL="../Check Currency Limit.vi"/>
+		<Item Name="Check Reserve Levels.vi" Type="VI" URL="../Check Reserve Levels.vi"/>
 		<Item Name="Coin Reserve Enum.ctl" Type="VI" URL="../controls/Coin Reserve Enum.ctl"/>
 		<Item Name="Currency Enum.ctl" Type="VI" URL="../controls/Currency Enum.ctl"/>
 		<Item Name="Currency.ctl" Type="VI" URL="../controls/Currency.ctl"/>
@@ -71,7 +72,9 @@
 		<Item Name="Dispense Data.ctl" Type="VI" URL="../controls/Dispense Data.ctl"/>
 		<Item Name="Display Balance Status.vi" Type="VI" URL="../Display Balance Status.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Products Enum.ctl" Type="VI" URL="../controls/Products Enum.ctl"/>
 		<Item Name="Purchase And Dispensing.vi" Type="VI" URL="../Purchase And Dispensing.vi"/>
+		<Item Name="Select Product.vi" Type="VI" URL="../Select Product.vi"/>
 		<Item Name="Update Coin Reserve.vi" Type="VI" URL="../Update Coin Reserve.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
