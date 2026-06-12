@@ -70,6 +70,7 @@
 		<Item Name="Dispense Data.ctl" Type="VI" URL="../controls/Dispense Data.ctl"/>
 		<Item Name="Display Balance Status.vi" Type="VI" URL="../Display Balance Status.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Purchase And Dispensing.vi" Type="VI" URL="../Purchase And Dispensing.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
